@@ -22,4 +22,11 @@ In your analysis you will perform the following:
 5.	Calculate and visualize the standard deviations of the returns
 6.	Write a short thesis based on the correlations between the tech stocks
 
-![image](https://user-images.githubusercontent.com/124485987/216902067-482799f3-677d-422f-8239-75ba26660486.png)
+![image](https://user-images.githubusercontent.com/124485987/216902672-7c4aa1d9-506c-4bca-be7f-eae9b3bf59e5.png)
+![image](https://user-images.githubusercontent.com/124485987/216902833-e354c0bb-1cb9-42ce-a80c-8fe159da9604.png)
+![image](https://user-images.githubusercontent.com/124485987/216902995-b0e61644-3417-4734-8c71-9b5f90a1fe70.png)
+![image](https://user-images.githubusercontent.com/124485987/216903071-2972fb70-f960-4ba8-b170-57f106941c04.png)
+![image](https://user-images.githubusercontent.com/124485987/216903157-6780282a-6132-449e-89bd-c7868a6d89b8.png)
+![image](https://user-images.githubusercontent.com/124485987/216903222-ea1dff40-3a7d-4209-ab8d-98ac0ebe6d1d.png)
+![image](https://user-images.githubusercontent.com/124485987/216903320-8469bb80-450f-47ae-95ed-5e982571aa7b.png)
+
